@@ -1,0 +1,483 @@
+STATEFP|PLACEFP|NAME|NAMELSAD
+06|00296|Adelanto|Adelanto city
+06|00394|Agoura Hills|Agoura Hills city
+06|00562|Alameda|Alameda city
+06|00674|Albany|Albany city
+06|00884|Alhambra|Alhambra city
+06|00947|Aliso Viejo|Aliso Viejo city
+06|01444|Alturas|Alturas city
+06|01514|Amador City|Amador City city
+06|01640|American Canyon|American Canyon city
+06|02000|Anaheim|Anaheim city
+06|02042|Anderson|Anderson city
+06|02112|Angels|Angels city
+06|02252|Antioch|Antioch city
+06|02364|Apple Valley|Apple Valley town
+06|02462|Arcadia|Arcadia city
+06|02476|Arcata|Arcata city
+06|02868|Arroyo Grande|Arroyo Grande city
+06|02896|Artesia|Artesia city
+06|02924|Arvin|Arvin city
+06|03064|Atascadero|Atascadero city
+06|03092|Atherton|Atherton town
+06|03162|Atwater|Atwater city
+06|03204|Auburn|Auburn city
+06|03274|Avalon|Avalon city
+06|03302|Avenal|Avenal city
+06|03386|Azusa|Azusa city
+06|03526|Bakersfield|Bakersfield city
+06|03666|Baldwin Park|Baldwin Park city
+06|03820|Banning|Banning city
+06|04030|Barstow|Barstow city
+06|04758|Beaumont|Beaumont city
+06|04870|Bell|Bell city
+06|04982|Bellflower|Bellflower city
+06|04996|Bell Gardens|Bell Gardens city
+06|05108|Belmont|Belmont city
+06|05164|Belvedere|Belvedere city
+06|05290|Benicia|Benicia city
+06|06000|Berkeley|Berkeley city
+06|06308|Beverly Hills|Beverly Hills city
+06|06434|Big Bear Lake|Big Bear Lake city
+06|06560|Biggs|Biggs city
+06|06798|Bishop|Bishop city
+06|07162|Blue Lake|Blue Lake city
+06|07218|Blythe|Blythe city
+06|07946|Bradbury|Bradbury city
+06|08058|Brawley|Brawley city
+06|08100|Brea|Brea city
+06|08142|Brentwood|Brentwood city
+06|08310|Brisbane|Brisbane city
+06|08758|Buellton|Buellton city
+06|08786|Buena Park|Buena Park city
+06|08954|Burbank|Burbank city
+06|09066|Burlingame|Burlingame city
+06|09598|Calabasas|Calabasas city
+06|09710|Calexico|Calexico city
+06|09780|California City|California City city
+06|09864|Calimesa|Calimesa city
+06|09878|Calipatria|Calipatria city
+06|09892|Calistoga|Calistoga city
+06|10046|Camarillo|Camarillo city
+06|10345|Campbell|Campbell city
+06|10928|Canyon Lake|Canyon Lake city
+06|11040|Capitola|Capitola city
+06|11194|Carlsbad|Carlsbad city
+06|11250|Carmel-by-the-Sea|Carmel-by-the-Sea city
+06|11446|Carpinteria|Carpinteria city
+06|11530|Carson|Carson city
+06|12048|Cathedral City|Cathedral City city
+06|12524|Ceres|Ceres city
+06|12552|Cerritos|Cerritos city
+06|13014|Chico|Chico city
+06|13210|Chino|Chino city
+06|13214|Chino Hills|Chino Hills city
+06|13294|Chowchilla|Chowchilla city
+06|13392|Chula Vista|Chula Vista city
+06|13588|Citrus Heights|Citrus Heights city
+06|13756|Claremont|Claremont city
+06|13882|Clayton|Clayton city
+06|13945|Clearlake|Clearlake city
+06|14190|Cloverdale|Cloverdale city
+06|14218|Clovis|Clovis city
+06|14260|Coachella|Coachella city
+06|14274|Coalinga|Coalinga city
+06|14498|Colfax|Colfax city
+06|14736|Colma|Colma town
+06|14890|Colton|Colton city
+06|14946|Colusa|Colusa city
+06|14974|Commerce|Commerce city
+06|15044|Compton|Compton city
+06|16000|Concord|Concord city
+06|16224|Corcoran|Corcoran city
+06|16322|Corning|Corning city
+06|16350|Corona|Corona city
+06|16378|Coronado|Coronado city
+06|16462|Corte Madera|Corte Madera town
+06|16532|Costa Mesa|Costa Mesa city
+06|16560|Cotati|Cotati city
+06|16742|Covina|Covina city
+06|17022|Crescent City|Crescent City city
+06|17498|Cudahy|Cudahy city
+06|17568|Culver City|Culver City city
+06|17610|Cupertino|Cupertino city
+06|17750|Cypress|Cypress city
+06|17918|Daly City|Daly City city
+06|17946|Dana Point|Dana Point city
+06|17988|Danville|Danville town
+06|18100|Davis|Davis city
+06|18394|Delano|Delano city
+06|18506|Del Mar|Del Mar city
+06|18688|Del Rey Oaks|Del Rey Oaks city
+06|18996|Desert Hot Springs|Desert Hot Springs city
+06|19192|Diamond Bar|Diamond Bar city
+06|19318|Dinuba|Dinuba city
+06|19402|Dixon|Dixon city
+06|19584|Dorris|Dorris city
+06|19612|Dos Palos|Dos Palos city
+06|19766|Downey|Downey city
+06|19990|Duarte|Duarte city
+06|20018|Dublin|Dublin city
+06|20242|Dunsmuir|Dunsmuir city
+06|20956|East Palo Alto|East Palo Alto city
+06|21230|Eastvale|Eastvale city
+06|21712|El Cajon|El Cajon city
+06|21782|El Centro|El Centro city
+06|21796|El Cerrito|El Cerrito city
+06|22020|Elk Grove|Elk Grove city
+06|22230|El Monte|El Monte city
+06|22300|El Paso de Robles (Paso Robles)|El Paso de Robles (Paso Robles) city
+06|22412|El Segundo|El Segundo city
+06|22594|Emeryville|Emeryville city
+06|22678|Encinitas|Encinitas city
+06|22790|Escalon|Escalon city
+06|22804|Escondido|Escondido city
+06|22972|Etna|Etna city
+06|23042|Eureka|Eureka city
+06|23126|Exeter|Exeter city
+06|23168|Fairfax|Fairfax town
+06|23182|Fairfield|Fairfield city
+06|23616|Farmersville|Farmersville city
+06|23910|Ferndale|Ferndale city
+06|24092|Fillmore|Fillmore city
+06|24134|Firebaugh|Firebaugh city
+06|24638|Folsom|Folsom city
+06|24680|Fontana|Fontana city
+06|25058|Fort Bragg|Fort Bragg city
+06|25128|Fort Jones|Fort Jones city
+06|25296|Fortuna|Fortuna city
+06|25338|Foster City|Foster City city
+06|25380|Fountain Valley|Fountain Valley city
+06|25436|Fowler|Fowler city
+06|26000|Fremont|Fremont city
+06|27000|Fresno|Fresno city
+06|28000|Fullerton|Fullerton city
+06|28112|Galt|Galt city
+06|28168|Gardena|Gardena city
+06|29000|Garden Grove|Garden Grove city
+06|29504|Gilroy|Gilroy city
+06|30000|Glendale|Glendale city
+06|30014|Glendora|Glendora city
+06|30378|Goleta|Goleta city
+06|30392|Gonzales|Gonzales city
+06|30658|Grand Terrace|Grand Terrace city
+06|30798|Grass Valley|Grass Valley city
+06|30994|Greenfield|Greenfield city
+06|31260|Gridley|Gridley city
+06|31393|Grover Beach|Grover Beach city
+06|31414|Guadalupe|Guadalupe city
+06|31568|Gustine|Gustine city
+06|31708|Half Moon Bay|Half Moon Bay city
+06|31960|Hanford|Hanford city
+06|32506|Hawaiian Gardens|Hawaiian Gardens city
+06|32548|Hawthorne|Hawthorne city
+06|33000|Hayward|Hayward city
+06|33056|Healdsburg|Healdsburg city
+06|33182|Hemet|Hemet city
+06|33308|Hercules|Hercules city
+06|33364|Hermosa Beach|Hermosa Beach city
+06|33434|Hesperia|Hesperia city
+06|33518|Hidden Hills|Hidden Hills city
+06|33588|Highland|Highland city
+06|33798|Hillsborough|Hillsborough town
+06|34120|Hollister|Hollister city
+06|34246|Holtville|Holtville city
+06|34904|Hughson|Hughson city
+06|36000|Huntington Beach|Huntington Beach city
+06|36056|Huntington Park|Huntington Park city
+06|36084|Huron|Huron city
+06|36280|Imperial|Imperial city
+06|36294|Imperial Beach|Imperial Beach city
+06|36434|Indian Wells|Indian Wells city
+06|36448|Indio|Indio city
+06|36490|Industry|Industry city
+06|36546|Inglewood|Inglewood city
+06|36672|Ione|Ione city
+06|36770|Irvine|Irvine city
+06|36826|Irwindale|Irwindale city
+06|36882|Isleton|Isleton city
+06|36980|Jackson|Jackson city
+06|37692|Jurupa Valley|Jurupa Valley city
+06|38226|Kerman|Kerman city
+06|38520|King City|King City city
+06|38562|Kingsburg|Kingsburg city
+06|39003|La Cañada Flintridge|La Cañada Flintridge city
+06|39122|Lafayette|Lafayette city
+06|39178|Laguna Beach|Laguna Beach city
+06|39220|Laguna Hills|Laguna Hills city
+06|39248|Laguna Niguel|Laguna Niguel city
+06|39259|Laguna Woods|Laguna Woods city
+06|39290|La Habra|La Habra city
+06|39304|La Habra Heights|La Habra Heights city
+06|39486|Lake Elsinore|Lake Elsinore city
+06|39496|Lake Forest|Lake Forest city
+06|39710|Lakeport|Lakeport city
+06|39892|Lakewood|Lakewood city
+06|40004|La Mesa|La Mesa city
+06|40032|La Mirada|La Mirada city
+06|40130|Lancaster|Lancaster city
+06|40256|La Palma|La Palma city
+06|40340|La Puente|La Puente city
+06|40354|La Quinta|La Quinta city
+06|40438|Larkspur|Larkspur city
+06|40704|Lathrop|Lathrop city
+06|40830|La Verne|La Verne city
+06|40886|Lawndale|Lawndale city
+06|41124|Lemon Grove|Lemon Grove city
+06|41152|Lemoore|Lemoore city
+06|41474|Lincoln|Lincoln city
+06|41712|Lindsay|Lindsay city
+06|41936|Live Oak|Live Oak city
+06|41992|Livermore|Livermore city
+06|42006|Livingston|Livingston city
+06|42202|Lodi|Lodi city
+06|42370|Loma Linda|Loma Linda city
+06|42468|Lomita|Lomita city
+06|42524|Lompoc|Lompoc city
+06|43000|Long Beach|Long Beach city
+06|43140|Loomis|Loomis town
+06|43224|Los Alamitos|Los Alamitos city
+06|43280|Los Altos|Los Altos city
+06|43294|Los Altos Hills|Los Altos Hills town
+06|44000|Los Angeles|Los Angeles city
+06|44028|Los Banos|Los Banos city
+06|44112|Los Gatos|Los Gatos town
+06|44364|Loyalton|Loyalton city
+06|44574|Lynwood|Lynwood city
+06|44826|McFarland|McFarland city
+06|45022|Madera|Madera city
+06|45246|Malibu|Malibu city
+06|45358|Mammoth Lakes|Mammoth Lakes town
+06|45400|Manhattan Beach|Manhattan Beach city
+06|45484|Manteca|Manteca city
+06|45736|Maricopa|Maricopa city
+06|45778|Marina|Marina city
+06|46114|Martinez|Martinez city
+06|46170|Marysville|Marysville city
+06|46492|Maywood|Maywood city
+06|46828|Mendota|Mendota city
+06|46842|Menifee|Menifee city
+06|46870|Menlo Park|Menlo Park city
+06|46898|Merced|Merced city
+06|47486|Millbrae|Millbrae city
+06|47710|Mill Valley|Mill Valley city
+06|47766|Milpitas|Milpitas city
+06|48256|Mission Viejo|Mission Viejo city
+06|48354|Modesto|Modesto city
+06|48648|Monrovia|Monrovia city
+06|48690|Montague|Montague city
+06|48788|Montclair|Montclair city
+06|48816|Montebello|Montebello city
+06|48872|Monterey|Monterey city
+06|48914|Monterey Park|Monterey Park city
+06|48956|Monte Sereno|Monte Sereno city
+06|49138|Moorpark|Moorpark city
+06|49187|Moraga|Moraga town
+06|49270|Moreno Valley|Moreno Valley city
+06|49278|Morgan Hill|Morgan Hill city
+06|49362|Morro Bay|Morro Bay city
+06|49670|Mountain View|Mountain View city
+06|49852|Mount Shasta|Mount Shasta city
+06|50076|Murrieta|Murrieta city
+06|50258|Napa|Napa city
+06|50398|National City|National City city
+06|50734|Needles|Needles city
+06|50874|Nevada City|Nevada City city
+06|50916|Newark|Newark city
+06|51140|Newman|Newman city
+06|51182|Newport Beach|Newport Beach city
+06|51560|Norco|Norco city
+06|52526|Norwalk|Norwalk city
+06|52582|Novato|Novato city
+06|52694|Oakdale|Oakdale city
+06|53000|Oakland|Oakland city
+06|53070|Oakley|Oakley city
+06|53322|Oceanside|Oceanside city
+06|53476|Ojai|Ojai city
+06|53896|Ontario|Ontario city
+06|53980|Orange|Orange city
+06|54008|Orange Cove|Orange Cove city
+06|54232|Orinda|Orinda city
+06|54274|Orland|Orland city
+06|54386|Oroville|Oroville city
+06|54652|Oxnard|Oxnard city
+06|54806|Pacifica|Pacifica city
+06|54848|Pacific Grove|Pacific Grove city
+06|55156|Palmdale|Palmdale city
+06|55184|Palm Desert|Palm Desert city
+06|55254|Palm Springs|Palm Springs city
+06|55282|Palo Alto|Palo Alto city
+06|55380|Palos Verdes Estates|Palos Verdes Estates city
+06|55520|Paradise|Paradise town
+06|55618|Paramount|Paramount city
+06|55856|Parlier|Parlier city
+06|56000|Pasadena|Pasadena city
+06|56112|Patterson|Patterson city
+06|56700|Perris|Perris city
+06|56784|Petaluma|Petaluma city
+06|56924|Pico Rivera|Pico Rivera city
+06|56938|Piedmont|Piedmont city
+06|57288|Pinole|Pinole city
+06|57414|Pismo Beach|Pismo Beach city
+06|57456|Pittsburg|Pittsburg city
+06|57526|Placentia|Placentia city
+06|57540|Placerville|Placerville city
+06|57764|Pleasant Hill|Pleasant Hill city
+06|57792|Pleasanton|Pleasanton city
+06|57834|Plymouth|Plymouth city
+06|57876|Point Arena|Point Arena city
+06|58072|Pomona|Pomona city
+06|58240|Porterville|Porterville city
+06|58296|Port Hueneme|Port Hueneme city
+06|58352|Portola|Portola city
+06|58380|Portola Valley|Portola Valley town
+06|58520|Poway|Poway city
+06|59444|Rancho Cordova|Rancho Cordova city
+06|59451|Rancho Cucamonga|Rancho Cucamonga city
+06|59500|Rancho Mirage|Rancho Mirage city
+06|59514|Rancho Palos Verdes|Rancho Palos Verdes city
+06|59587|Rancho Santa Margarita|Rancho Santa Margarita city
+06|59892|Red Bluff|Red Bluff city
+06|59920|Redding|Redding city
+06|59962|Redlands|Redlands city
+06|60018|Redondo Beach|Redondo Beach city
+06|60102|Redwood City|Redwood City city
+06|60242|Reedley|Reedley city
+06|60466|Rialto|Rialto city
+06|60620|Richmond|Richmond city
+06|60704|Ridgecrest|Ridgecrest city
+06|60900|Rio Dell|Rio Dell city
+06|60984|Rio Vista|Rio Vista city
+06|61026|Ripon|Ripon city
+06|61068|Riverbank|Riverbank city
+06|62000|Riverside|Riverside city
+06|62364|Rocklin|Rocklin city
+06|62546|Rohnert Park|Rohnert Park city
+06|62602|Rolling Hills|Rolling Hills city
+06|62644|Rolling Hills Estates|Rolling Hills Estates city
+06|62896|Rosemead|Rosemead city
+06|62938|Roseville|Roseville city
+06|62980|Ross|Ross town
+06|64000|Sacramento|Sacramento city
+06|64140|St. Helena|St. Helena city
+06|64224|Salinas|Salinas city
+06|64434|San Anselmo|San Anselmo town
+06|65000|San Bernardino|San Bernardino city
+06|65028|San Bruno|San Bruno city
+06|65042|San Buenaventura (Ventura)|San Buenaventura (Ventura) city
+06|65070|San Carlos|San Carlos city
+06|65084|San Clemente|San Clemente city
+06|65112|Sand City|Sand City city
+06|66000|San Diego|San Diego city
+06|66070|San Dimas|San Dimas city
+06|66140|San Fernando|San Fernando city
+06|67000|San Francisco|San Francisco city
+06|67042|San Gabriel|San Gabriel city
+06|67056|Sanger|Sanger city
+06|67112|San Jacinto|San Jacinto city
+06|67126|San Joaquin|San Joaquin city
+06|68000|San Jose|San Jose city
+06|68014|San Juan Bautista|San Juan Bautista city
+06|68028|San Juan Capistrano|San Juan Capistrano city
+06|68084|San Leandro|San Leandro city
+06|68154|San Luis Obispo|San Luis Obispo city
+06|68196|San Marcos|San Marcos city
+06|68224|San Marino|San Marino city
+06|68252|San Mateo|San Mateo city
+06|68294|San Pablo|San Pablo city
+06|68364|San Rafael|San Rafael city
+06|68378|San Ramon|San Ramon city
+06|69000|Santa Ana|Santa Ana city
+06|69070|Santa Barbara|Santa Barbara city
+06|69084|Santa Clara|Santa Clara city
+06|69088|Santa Clarita|Santa Clarita city
+06|69112|Santa Cruz|Santa Cruz city
+06|69154|Santa Fe Springs|Santa Fe Springs city
+06|69196|Santa Maria|Santa Maria city
+06|70000|Santa Monica|Santa Monica city
+06|70042|Santa Paula|Santa Paula city
+06|70098|Santa Rosa|Santa Rosa city
+06|70224|Santee|Santee city
+06|70280|Saratoga|Saratoga city
+06|70364|Sausalito|Sausalito city
+06|70588|Scotts Valley|Scotts Valley city
+06|70686|Seal Beach|Seal Beach city
+06|70742|Seaside|Seaside city
+06|70770|Sebastopol|Sebastopol city
+06|70882|Selma|Selma city
+06|71106|Shafter|Shafter city
+06|71225|Shasta Lake|Shasta Lake city
+06|71806|Sierra Madre|Sierra Madre city
+06|71876|Signal Hill|Signal Hill city
+06|72016|Simi Valley|Simi Valley city
+06|72506|Solana Beach|Solana Beach city
+06|72520|Soledad|Soledad city
+06|72576|Solvang|Solvang city
+06|72646|Sonoma|Sonoma city
+06|72674|Sonora|Sonora city
+06|72996|South El Monte|South El Monte city
+06|73080|South Gate|South Gate city
+06|73108|South Lake Tahoe|South Lake Tahoe city
+06|73220|South Pasadena|South Pasadena city
+06|73262|South San Francisco|South San Francisco city
+06|73962|Stanton|Stanton city
+06|75000|Stockton|Stockton city
+06|75630|Suisun City|Suisun City city
+06|77000|Sunnyvale|Sunnyvale city
+06|77364|Susanville|Susanville city
+06|77392|Sutter Creek|Sutter Creek city
+06|77574|Taft|Taft city
+06|78092|Tehachapi|Tehachapi city
+06|78106|Tehama|Tehama city
+06|78120|Temecula|Temecula city
+06|78148|Temple City|Temple City city
+06|78582|Thousand Oaks|Thousand Oaks city
+06|78666|Tiburon|Tiburon town
+06|80000|Torrance|Torrance city
+06|80238|Tracy|Tracy city
+06|80448|Trinidad|Trinidad city
+06|80588|Truckee|Truckee town
+06|80644|Tulare|Tulare city
+06|80686|Tulelake|Tulelake city
+06|80812|Turlock|Turlock city
+06|80854|Tustin|Tustin city
+06|80994|Twentynine Palms|Twentynine Palms city
+06|81134|Ukiah|Ukiah city
+06|81204|Union City|Union City city
+06|81344|Upland|Upland city
+06|81554|Vacaville|Vacaville city
+06|81666|Vallejo|Vallejo city
+06|82422|Vernon|Vernon city
+06|82590|Victorville|Victorville city
+06|82744|Villa Park|Villa Park city
+06|82954|Visalia|Visalia city
+06|82996|Vista|Vista city
+06|83332|Walnut|Walnut city
+06|83346|Walnut Creek|Walnut Creek city
+06|83542|Wasco|Wasco city
+06|83612|Waterford|Waterford city
+06|83668|Watsonville|Watsonville city
+06|83850|Weed|Weed city
+06|84200|West Covina|West Covina city
+06|84410|West Hollywood|West Hollywood city
+06|84438|Westlake Village|Westlake Village city
+06|84550|Westminster|Westminster city
+06|84606|Westmorland|Westmorland city
+06|84816|West Sacramento|West Sacramento city
+06|85012|Wheatland|Wheatland city
+06|85292|Whittier|Whittier city
+06|85446|Wildomar|Wildomar city
+06|85586|Williams|Williams city
+06|85600|Willits|Willits city
+06|85684|Willows|Willows city
+06|85922|Windsor|Windsor town
+06|86034|Winters|Winters city
+06|86300|Woodlake|Woodlake city
+06|86328|Woodland|Woodland city
+06|86440|Woodside|Woodside town
+06|86832|Yorba Linda|Yorba Linda city
+06|86930|Yountville|Yountville city
+06|86944|Yreka|Yreka city
+06|86972|Yuba City|Yuba City city
+06|87042|Yucaipa|Yucaipa city
+06|87056|Yucca Valley|Yucca Valley town
