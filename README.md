@@ -13,18 +13,18 @@ R script collects population data from census. For use, <strong>CENSUS_KEY envir
 R script which generates 3 vislualization plot of total population of whoel US by summing all the placed in collected data, and the plots will be stored in plots folder as png files.
 
 #### Sample Plots
-<img src="./sample_plots/population_combination_plot_us.png" width="200">
-<img src="./sample_plots/growth_rate_distribution.png" width="200">
-<img src="./sample_plots/work_senior_ratio_distribution.png" width="200">
-
-
+Data from 2010 to 2021, Whole US (Total of sample places in whole dataset)
+| Age Group Flow | Growth Rate Distribution | Working/Senior Age Group Ration |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+|<img src="./sample_plots/population_combination_plot_us.png" width="200">|<img src="./sample_plots/growth_rate_distribution.png" width="200">|<img src="./sample_plots/work_senior_ratio_distribution.png" width="200" link="./sample_plots/work_senior_ratio_distribution.png">|
 
 ### Data Clustering and Splitting: data_cluster_split.R tsne_plots.R
 R script which clusters the collected data by K-means clustering with Soft DTW distance, and splits the data into training and validation data for each cluster. All the information about clustering and splitting will be stored in addiiotnal columns of data frame, will be stored as RDS file in data folder. Another R script tsne_plots.R will generate t-SNE plots of the data, and will be stored in plots folder as png files.
 
 #### Sample Plots
-<img src="./sample_plots/tsne_k10.png" width="200">
-<img src="./sample_plots/tsne_split.png" width="200">
+| t-SNE Plot 10 Clusters | t-SNE Plot Data Split |
+|:-------------------------:|:-------------------------:|
+|<img src="./sample_plots/tsne_k10.png" width="200">|<img src="./sample_plots/tsne_split.png" width="200">|
 
 ### Data Engineering: data_processing.R ema_augmentation.R
 R script data_processing.R which process through data wrangling and normalization, store data as prepped data in data folder. Another R script ema_augmentation.R which augments the data with exponential moving average, and store the data as prepped data in data folder. 
@@ -39,23 +39,20 @@ R scripts generate projections with the trained models, and store the projection
 R script generate visualizations of the projections, and store the visualizations as png files in plots folder. 
 
 #### Sample Plots
-Generated projections for Whole Riverside County (total of all places in Riverside County)Left: Random Forest, Right: RWKV
+Generated projections for Whole Riverside County (total of all places in Riverside County)
+| Random Forest | RWKV |
+|:-------------------------:|:-------------------------:|
+|<img src="./sample_plots/rf_0_mq.png" width="200">|<img src="./sample_plots/rwkv_0_mq.png" width="200">|
  
-<img src="./sample_plots/rf_0_mq.png" width="200">
-<img src="./sample_plots/rwkv_0_mq.png" width="200">
+Age Group Projections for Whole Riverside County
+| Random Forest | RWKV |
+|:-------------------------:|:-------------------------:|
+|<img src="./sample_plots/rf_combination_0.png" width="200">|<img src="./sample_plots/rwkv_combination_0.png" width="200">|
  
-Age Group Projections for Whole Riverside CountyLeft: Random Forest, Right: RWKV
- 
-<img src="./sample_plots/rf_combination_0.png" width="200">
-<img src="./sample_plots/rwkv_combination_0.png" width="200">
- 
-Total Population Quantile Projections for Whole Riverside County
- 
-<img src="./sample_plots/total_pop_0.png" width="200">
- 
-Working to Senior Age Group Ratio Quantile Projections for Whole Riverside County
- 
-<img src="./sample_plots/working_senior_ratio_0.png" width="200">
+Quantile Projections for Whole Riverside County
+| Total Population | Working/Senior Age Group Ratio |
+|:-------------------------:|:-------------------------:|
+|<img src="./sample_plots/total_pop_0.png" width="200">|<img src="./sample_plots/working_senior_ratio_0.png" width="200">|
 
 ### Evaluation: evaluate.R
 R script evaluate the projections with the test data, and store the evaluation results as RDS files in data folder.
